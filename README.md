@@ -10,5 +10,5 @@ This project uses machine learning to predict whether a customer left a high or 
 
 ### Dataset:  
 - Kaggle: Supermarket Sales Dataset
-- Dataset link: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+- Dataset link: https://www.kaggle.com/datasets/lovishbansal123/sales-of-a-supermarket/data
 - CSV: `supermarket_sales.csv`
